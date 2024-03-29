@@ -1,5 +1,5 @@
 #pragma once
-#define UWORLD 0x124bf388 // dsc.gg/OsmanHub
+#define UWORLD 0x11f26508 // dsc.gg/OsmanHub
 #define GAME_INSTANCE 0x1d8
 #define LOCAL_PLAYERS 0x38
 #define PLAYER_CONTROLLER 0x30
